@@ -1,1 +1,0 @@
-每个基于 Mybatis 的应用都是以一个 SqlSessionFactory 的实例为核心的。
